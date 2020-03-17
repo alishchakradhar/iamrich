@@ -1,4 +1,4 @@
-# lowkey
+# i am rich
 
 A new Flutter application.
 
